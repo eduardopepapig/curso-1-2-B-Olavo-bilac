@@ -1,8 +1,8 @@
 .cabecalho{
 background-color: hsl(240, 1%, 72%);
 color:white;
-display: flex-start;
-justify-content: space-around;
+display: flex;
+justify-content: space-between;
 }
 .cabecalho-imagem{
 width: 20%;
