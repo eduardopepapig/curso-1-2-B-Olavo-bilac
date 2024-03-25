@@ -1,21 +1,24 @@
-.cabecalho{
-background-color: hsl(240, 1%, 72%);
-color:white;
-display: flex;
-justify-content: space-around;
-}
-.cabecalho-imagem{
-width: 20%;
-}
-.cabeclho-lista-item{
-display: inline-block;
-margin: 0 16px;
-
-
+.cabecalho {
+    background-color: hsl(320, 100%, 59%);
+    color: white;
+    display: flex;
+    justify-content: space-around;
 }
 
-.escola-div-conteudo{
-width: 35%;
-
+.cabecalho-imagem {
+    width: 20%;
 }
 
+.cabeclho-lista-item {
+    display: inline-block;
+    margin: 0 16px
+}
+
+.escola-imagem {
+    width: 25%;
+}
+
+.escola-div-conteudo {
+    width: 35%;
+
+}
