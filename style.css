@@ -31,3 +31,10 @@
     width: 35%;
 
 }
+
+.estudante-imagem{
+   width: 24px; 
+}
+.estudante-div{
+    align-items: center;
+}
