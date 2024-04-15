@@ -32,9 +32,14 @@
 
 }
 
-.estudante-imagem{
-   width: 24px; 
+.estudante-imagem {
+    width: 24px;
 }
-.estudante-div{
+
+.estudante-icone {
+    width: 24px;
+}
+
+.estudante-div {
     align-items: center;
 }
